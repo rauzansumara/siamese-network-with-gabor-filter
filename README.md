@@ -5,10 +5,8 @@ This repository contains the implementation of a Siamese Neural Network enhanced
 ## 📖 Table of Contents
 - [About the Project](#about-the-project)
 - [Methodology](#methodology)
-- [Installation](#installation)
-- [Usage](#usage)
+
 - [Citation](#citation)
-- [License](#license)
 
 ## 🧐 About the Project
 
